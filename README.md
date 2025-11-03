@@ -59,8 +59,8 @@ create database zomato;
 
 * Run a simple query to check the data is imported correctly:
 
-sql
+```sql
 SELECT * FROM orders;
 SELECT * FROM customers;
-
+```
 ---
