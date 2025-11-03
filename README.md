@@ -30,8 +30,9 @@ It illustrates **sophisticated querying** strategies for practical **financial a
 1. Open your SQL tool (e.g., *MySQL Workbench* or *SQL Server Management Studio*).
 2. Create a new database:
 
-sql
+```sql
 create database zomato;
+```
 
 
 ---
